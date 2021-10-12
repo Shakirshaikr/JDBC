@@ -12,7 +12,7 @@ public class LaptopTester {
 		
 		String userName = "root";
 		
-		String password = "Shakir@95";
+		String password = "shaikhshakir11";
 		
 		try {
 			//Class.forName("com.mysql.cj.jdbc.Driver");
